@@ -6,4 +6,4 @@ print("# this is not a comment")
 # print(“This commented line will never be executed”)
 
 # The following line should be commented:
-print("This line should not be printed!")
+# print("This line should not be printed!")

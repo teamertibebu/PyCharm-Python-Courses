@@ -6,9 +6,9 @@ else:
     print('and now it\'s 5')  # Print this message when the condition is no longer True
 
 for i in range(1, 5):
-    # Add a condition for interruption.
-        # Add a statement that will terminate the loop.
-    print(i)
+    if i in [1, 2]:        # Add a statement that will terminate the loop.
+        print(i)
+    else: break
 else:
     print("for loop is done")
 

@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 151
-        length: 17
+        length: 14
         placeholder_text: "# Add a condition"
         initial_state:
           length: 17
@@ -12,9 +12,9 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: tamdY/7MMO3e0n595JRvHA==
         selected: false
-        status: Unchecked
-      - offset: 177
-        length: 46
+        status: Solved
+      - offset: 174
+        length: 63
         placeholder_text: "# Add a keyword to skip print(x) for this loop"
         initial_state:
           length: 46
@@ -22,7 +22,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: rj2Ff1u65ER/ux3MWFmixg==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/__init__.py
     visible: false
@@ -31,5 +31,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Loops+/+Continue+keyword
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 08 Jun 2026 04:36:26 UTC"
 record: -1

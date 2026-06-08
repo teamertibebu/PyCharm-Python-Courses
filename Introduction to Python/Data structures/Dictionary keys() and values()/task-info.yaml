@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 200
-        length: 3
+        length: 19
         placeholder_text: ???
         initial_state:
           length: 3
@@ -12,7 +12,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: hk7mkcb5uKlVwJWVR8P8OCPR5zCdme/M16J7ymkqFcU=
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/__init__.py
     visible: false
@@ -21,5 +21,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Data+Structures+/+Dictionary+keys+and+values
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 08 Jun 2026 02:38:36 UTC"
 record: -1

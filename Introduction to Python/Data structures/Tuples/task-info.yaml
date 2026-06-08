@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 161
-        length: 3
+        length: 13
         placeholder_text: ???
         initial_state:
           length: 3
@@ -12,17 +12,17 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: IAk8UB2JaIUIXRXtJ1Qdog==
         selected: false
-        status: Unchecked
-      - offset: 179
-        length: 3
+        status: Solved
+      - offset: 189
+        length: 12
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 179
         initialized_from_dependency: false
         encrypted_possible_answer: 2WTPq+2yTy3RpoySooYDsQ==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/__init__.py
     visible: false
@@ -31,5 +31,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Data+Structures+/+Tuples
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 07 Jun 2026 20:57:12 UTC"
 record: -1

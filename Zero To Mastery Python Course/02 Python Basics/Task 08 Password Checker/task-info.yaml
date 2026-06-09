@@ -1,0 +1,35 @@
+type: edu
+custom_name: Password Checker
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: ExercisePasswordChecker.py
+    visible: true
+    placeholders:
+      - offset: 223
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 223
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3TblBYt8EBXY2WxXudFziA==
+        selected: false
+        status: Unchecked
+      - offset: 230
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 230
+        initialized_from_dependency: false
+        encrypted_possible_answer: JflCT1TTLmi3K7cW1Hlqww==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

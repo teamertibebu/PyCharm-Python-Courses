@@ -1,0 +1,62 @@
+type: edu
+custom_name: Dictionary Methods II
+files:
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: ExerciseDictionaryMethodsII.py
+    visible: true
+    placeholders:
+      - offset: 148
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 148
+        initialized_from_dependency: false
+        encrypted_possible_answer: Lw192UM12FeR1wk7rIif6Q==
+        selected: false
+        status: Unchecked
+      - offset: 360
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 360
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8bwBo+XQKAiffHv+Ia0Dp7GpWje/dDjgXH77csWDofY=
+        selected: false
+        status: Unchecked
+      - offset: 468
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 468
+        initialized_from_dependency: false
+        encrypted_possible_answer: OY4MLdYC2p3Y7fyaKVvlpQ==
+        selected: false
+        status: Unchecked
+      - offset: 520
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 520
+        initialized_from_dependency: false
+        encrypted_possible_answer: DYvYGaYQBAJXdHgFG9zkD523qFaggMn7nvbjIIQLbSY=
+        selected: false
+        status: Unchecked
+      - offset: 559
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 559
+        initialized_from_dependency: false
+        encrypted_possible_answer: +9YKg+eMkBYTkzVnfUkERQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

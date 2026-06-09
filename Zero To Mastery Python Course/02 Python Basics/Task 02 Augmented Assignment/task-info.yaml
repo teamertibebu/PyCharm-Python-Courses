@@ -1,0 +1,25 @@
+type: edu
+custom_name: Augmented Assignment
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: ExerciseAugmentedAssignmentOperator.py
+    visible: true
+    placeholders:
+      - offset: 256
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 256
+        initialized_from_dependency: false
+        encrypted_possible_answer: Qu7shsF+m/+OKkpPMAYcHQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

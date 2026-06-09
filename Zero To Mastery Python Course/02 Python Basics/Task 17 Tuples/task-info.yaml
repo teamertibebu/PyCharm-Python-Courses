@@ -1,0 +1,85 @@
+type: edu
+custom_name: Tuples
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: Tuples.py
+    visible: true
+    placeholders:
+      - offset: 98
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 98
+        initialized_from_dependency: false
+        encrypted_possible_answer: PsGbrtqY2O7fbYEBB2NlUg==
+        selected: false
+        status: Unchecked
+      - offset: 160
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 160
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2vqxxmZjQxROWBTfmp1+Ww==
+        selected: false
+        status: Unchecked
+      - offset: 299
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 299
+        initialized_from_dependency: false
+        encrypted_possible_answer: B/7vsHW2R1GRTvPqyBLR1Q==
+        selected: false
+        status: Unchecked
+      - offset: 304
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 304
+        initialized_from_dependency: false
+        encrypted_possible_answer: HIs0ww0Ud7ir3QUiqkyH3w==
+        selected: false
+        status: Unchecked
+      - offset: 309
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 309
+        initialized_from_dependency: false
+        encrypted_possible_answer: J7O3kH93dtbyyFhXoCdRdA==
+        selected: false
+        status: Unchecked
+      - offset: 434
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 434
+        initialized_from_dependency: false
+        encrypted_possible_answer: QsbLXKJZkwig9FJHkAZm8Q==
+        selected: false
+        status: Unchecked
+      - offset: 499
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 499
+        initialized_from_dependency: false
+        encrypted_possible_answer: V8c3Bvp5F3nrXa+aRuJQ4g==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

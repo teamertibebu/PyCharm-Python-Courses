@@ -1,0 +1,55 @@
+type: edu
+custom_name: Formatted Strings
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: ExerciseFormattedStrings.py
+    visible: true
+    placeholders:
+      - offset: 196
+        length: 33
+        placeholder_text: "# Write the resulting string here"
+        initial_state:
+          length: 33
+          offset: 196
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4fDHdqCXQM7fzdKTTyIoq3dmRhuucB0rAAtM1Txek0XE+aVrCS8mDcg0cv4rMCwy
+        selected: false
+        status: Unchecked
+      - offset: 310
+        length: 33
+        placeholder_text: "# Write the resulting string here"
+        initial_state:
+          length: 33
+          offset: 310
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4fDHdqCXQM7fzdKTTyIoq3dmRhuucB0rAAtM1Txek0XE+aVrCS8mDcg0cv4rMCwy
+        selected: false
+        status: Unchecked
+      - offset: 444
+        length: 33
+        placeholder_text: "# Write the resulting string here"
+        initial_state:
+          length: 33
+          offset: 444
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4fDHdqCXQM7fzdKTTyIoq3dmRhuucB0rAAtM1Txek0XE+aVrCS8mDcg0cv4rMCwy
+        selected: false
+        status: Unchecked
+      - offset: 632
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 632
+        initialized_from_dependency: false
+        encrypted_possible_answer: dYoFVe5PUDQrhTk2yW/0/NgYbQ7Bt42KMwvzt4D0vNQSPMdFzMYdpt2Zv8pIsVsx
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

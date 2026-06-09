@@ -1,0 +1,95 @@
+type: edu
+custom_name: Working With Dictionaries
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: Dictionaries.py
+    visible: true
+    placeholders:
+      - offset: 290
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 290
+        initialized_from_dependency: false
+        encrypted_possible_answer: byxZT37u5BuKaXDp/QMRfBF9v+bbJeAj5Ug/i6tm/sA=
+        selected: false
+        status: Unchecked
+      - offset: 359
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 359
+        initialized_from_dependency: false
+        encrypted_possible_answer: p+LfEcca4mz18spQWcWFDg==
+        selected: false
+        status: Unchecked
+      - offset: 366
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 366
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4McrqrKsM/6s48oUFLJ8LA==
+        selected: false
+        status: Unchecked
+      - offset: 470
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 470
+        initialized_from_dependency: false
+        encrypted_possible_answer: EBjCt4teie4fWvqJHvNqK3SH6H09mFuhgDuiwVMKyck=
+        selected: false
+        status: Unchecked
+      - offset: 577
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 577
+        initialized_from_dependency: false
+        encrypted_possible_answer: DJWn7G6NHRXYZxILqlpduQ==
+        selected: false
+        status: Unchecked
+      - offset: 584
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 584
+        initialized_from_dependency: false
+        encrypted_possible_answer: pOFxq+VTymWmt5O+IDuWdQ==
+        selected: false
+        status: Unchecked
+      - offset: 694
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 694
+        initialized_from_dependency: false
+        encrypted_possible_answer: DtqukgtN4Xow3sscjBMFhW/jmwdrJC04TbvHRMnI8Yc=
+        selected: false
+        status: Unchecked
+      - offset: 765
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 765
+        initialized_from_dependency: false
+        encrypted_possible_answer: DYvYGaYQBAJXdHgFG9zkD9thxkrONxs4ovct2we6t9bnCUZzalAI6n2FNT9MaMF/
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

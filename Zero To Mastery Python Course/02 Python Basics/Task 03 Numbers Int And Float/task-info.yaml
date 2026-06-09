@@ -1,0 +1,195 @@
+type: edu
+custom_name: Numbers Int And Float
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: Int&Float.py
+    visible: true
+    placeholders:
+      - offset: 135
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 135
+        initialized_from_dependency: false
+        encrypted_possible_answer: Qu7shsF+m/+OKkpPMAYcHQ==
+        selected: false
+        status: Unchecked
+      - offset: 159
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 159
+        initialized_from_dependency: false
+        encrypted_possible_answer: GvjGNl/PAFuzil5Msm5NzA==
+        selected: false
+        status: Unchecked
+      - offset: 183
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 183
+        initialized_from_dependency: false
+        encrypted_possible_answer: ElhJvZd0xSbiFwiVwsyDHg==
+        selected: false
+        status: Unchecked
+      - offset: 207
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 207
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5mwr/a3X7DxtibtxgAPIEQ==
+        selected: false
+        status: Unchecked
+      - offset: 274
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 274
+        initialized_from_dependency: false
+        encrypted_possible_answer: QdJKDjy4GCR1sGqaRlhoeQ==
+        selected: false
+        status: Unchecked
+      - offset: 306
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 306
+        initialized_from_dependency: false
+        encrypted_possible_answer: QdJKDjy4GCR1sGqaRlhoeQ==
+        selected: false
+        status: Unchecked
+      - offset: 338
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 338
+        initialized_from_dependency: false
+        encrypted_possible_answer: QdJKDjy4GCR1sGqaRlhoeQ==
+        selected: false
+        status: Unchecked
+      - offset: 370
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 370
+        initialized_from_dependency: false
+        encrypted_possible_answer: K3qI6NkWtpmT25YejWkMmg==
+        selected: false
+        status: Unchecked
+      - offset: 436
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 436
+        initialized_from_dependency: false
+        encrypted_possible_answer: K3qI6NkWtpmT25YejWkMmg==
+        selected: false
+        status: Unchecked
+      - offset: 472
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 472
+        initialized_from_dependency: false
+        encrypted_possible_answer: z5yZHiKsJgH98YqpBjH7zA==
+        selected: false
+        status: Unchecked
+      - offset: 524
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 524
+        initialized_from_dependency: false
+        encrypted_possible_answer: ElhJvZd0xSbiFwiVwsyDHg==
+        selected: false
+        status: Unchecked
+      - offset: 558
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 558
+        initialized_from_dependency: false
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+        selected: false
+        status: Unchecked
+      - offset: 601
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 601
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1jv4oI924ZkXwBNnWzUX/A==
+        selected: false
+        status: Unchecked
+      - offset: 662
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 662
+        initialized_from_dependency: false
+        encrypted_possible_answer: qQkBIfYQhtpNT7QVomJkqA==
+        selected: false
+        status: Unchecked
+      - offset: 692
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 692
+        initialized_from_dependency: false
+        encrypted_possible_answer: q6XArmcw8/XBmrM+tZeQGQ==
+        selected: false
+        status: Unchecked
+      - offset: 722
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 722
+        initialized_from_dependency: false
+        encrypted_possible_answer: zAvLjBGjgPCQqzFjP2whBg==
+        selected: false
+        status: Unchecked
+      - offset: 772
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 772
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9nuIdVfEK9jGPXlt4grt1g==
+        selected: false
+        status: Unchecked
+      - offset: 799
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 799
+        initialized_from_dependency: false
+        encrypted_possible_answer: MLcncFemOCq1pOmRWXqSfg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

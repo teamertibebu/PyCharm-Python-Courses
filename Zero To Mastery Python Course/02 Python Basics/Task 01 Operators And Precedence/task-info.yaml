@@ -1,0 +1,65 @@
+type: edu
+custom_name: Operators And Precedence
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: ExerciseOperatorPrecedence.py
+    visible: true
+    placeholders:
+      - offset: 208
+        length: 28
+        placeholder_text: "# calculate (5 + 4) * 10 / 2"
+        initial_state:
+          length: 28
+          offset: 208
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3we89CDqtV90MUbkqerGYQ==
+        selected: false
+        status: Unchecked
+      - offset: 249
+        length: 30
+        placeholder_text: "# calculate ((5 + 4) * 10) / 2"
+        initial_state:
+          length: 30
+          offset: 249
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3we89CDqtV90MUbkqerGYQ==
+        selected: false
+        status: Unchecked
+      - offset: 292
+        length: 30
+        placeholder_text: "# calculate (5 + 4) * (10 / 2)"
+        initial_state:
+          length: 30
+          offset: 292
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3we89CDqtV90MUbkqerGYQ==
+        selected: false
+        status: Unchecked
+      - offset: 335
+        length: 28
+        placeholder_text: "# calculate 5 + (4 * 10) / 2"
+        initial_state:
+          length: 28
+          offset: 335
+        initialized_from_dependency: false
+        encrypted_possible_answer: wiHGWtzXH9u6WkyPERaJDg==
+        selected: false
+        status: Unchecked
+      - offset: 376
+        length: 27
+        placeholder_text: "# calculate 5 + 4 * 10 // 2"
+        initial_state:
+          length: 27
+          offset: 376
+        initialized_from_dependency: false
+        encrypted_possible_answer: E59oQjl1SZMNQ69wPo94bg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

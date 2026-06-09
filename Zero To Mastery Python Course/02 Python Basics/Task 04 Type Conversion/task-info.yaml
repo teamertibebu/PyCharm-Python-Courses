@@ -1,0 +1,25 @@
+type: edu
+custom_name: Type Conversion
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: ExerciseTypeConversion.py
+    visible: true
+    placeholders:
+      - offset: 260
+        length: 10
+        placeholder_text: birth_year
+        initial_state:
+          length: 10
+          offset: 260
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0USchbRlTL9AcG0MkTmSZQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

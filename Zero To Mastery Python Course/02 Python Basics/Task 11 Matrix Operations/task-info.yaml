@@ -1,0 +1,25 @@
+type: edu
+custom_name: Matrix Operations
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: ExerciseMatrix.py
+    visible: true
+    placeholders:
+      - offset: 157
+        length: 15
+        placeholder_text: "basket[?][?][?]"
+        initial_state:
+          length: 15
+          offset: 157
+        initialized_from_dependency: false
+        encrypted_possible_answer: ILFXJVCy65auCUkHqspVzQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

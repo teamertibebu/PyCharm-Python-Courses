@@ -1,0 +1,65 @@
+type: edu
+custom_name: List Methods
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: ExerciseListMethods.py
+    visible: true
+    placeholders:
+      - offset: 124
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 124
+        initialized_from_dependency: false
+        encrypted_possible_answer: XbxYbpkZ3RBzS5EsaILEbnJx4xvlnGSob+OkuUu0HSQ=
+        selected: false
+        status: Unchecked
+      - offset: 176
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 176
+        initialized_from_dependency: false
+        encrypted_possible_answer: E49CsKGbHUYIxUMvBLnX3I+LaHGBRFBwxneMiz6EdYM=
+        selected: false
+        status: Unchecked
+      - offset: 227
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 227
+        initialized_from_dependency: false
+        encrypted_possible_answer: Z34kH2SuGP4yWJtzmFnJwg==
+        selected: false
+        status: Unchecked
+      - offset: 286
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 286
+        initialized_from_dependency: false
+        encrypted_possible_answer: 34mzI5r39F9qlZDGuYXnY9Teoxtp9ILwBKri+Lznclg=
+        selected: false
+        status: Unchecked
+      - offset: 357
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 357
+        initialized_from_dependency: false
+        encrypted_possible_answer: TURxwUuVqwKn+TMXPaavAg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

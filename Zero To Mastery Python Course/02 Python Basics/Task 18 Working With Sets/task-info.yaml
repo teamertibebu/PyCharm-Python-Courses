@@ -1,0 +1,55 @@
+type: edu
+custom_name: Working With Sets
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: Sets.py
+    visible: true
+    placeholders:
+      - offset: 244
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 244
+        initialized_from_dependency: false
+        encrypted_possible_answer: xMLA3weltTUYJg9jzp/4mVexiOfKKgKDpNxRQEyTeV0=
+        selected: false
+        status: Unchecked
+      - offset: 359
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 359
+        initialized_from_dependency: false
+        encrypted_possible_answer: /66yHxutAk60ol1fcRlX3Dob3K4aLd1yLxFO9lQ/QvY=
+        selected: false
+        status: Unchecked
+      - offset: 459
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 459
+        initialized_from_dependency: false
+        encrypted_possible_answer: fi9Mq7sOOwYt2BktKmbHlPKM3H/nYajKBEK9PbPx3mA=
+        selected: false
+        status: Unchecked
+      - offset: 560
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 560
+        initialized_from_dependency: false
+        encrypted_possible_answer: bnmyAPmJPsZdvC7u2I/2aFGUEH5+QS90dCt+D6X9QcY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

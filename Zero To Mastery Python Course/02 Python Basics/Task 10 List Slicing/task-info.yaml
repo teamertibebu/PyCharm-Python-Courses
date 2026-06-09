@@ -1,0 +1,85 @@
+type: edu
+custom_name: List Slicing
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: ExerciseListSlicing.py
+    visible: true
+    placeholders:
+      - offset: 74
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 74
+        initialized_from_dependency: false
+        encrypted_possible_answer: iAhsJxPnvS2a+9pnQswPrQ==
+        selected: false
+        status: Unchecked
+      - offset: 151
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 151
+        initialized_from_dependency: false
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+        selected: false
+        status: Unchecked
+      - offset: 204
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 204
+        initialized_from_dependency: false
+        encrypted_possible_answer: GvjGNl/PAFuzil5Msm5NzA==
+        selected: false
+        status: Unchecked
+      - offset: 258
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 258
+        initialized_from_dependency: false
+        encrypted_possible_answer: zRJVodu0JKkPf4e99aZZcw==
+        selected: false
+        status: Unchecked
+      - offset: 327
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 327
+        initialized_from_dependency: false
+        encrypted_possible_answer: /SOasAqUHfKv+g37MJXROw==
+        selected: false
+        status: Unchecked
+      - offset: 445
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 445
+        initialized_from_dependency: false
+        encrypted_possible_answer: 07EDPozOc7B1/BhbL4Ra0Q==
+        selected: false
+        status: Unchecked
+      - offset: 484
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 484
+        initialized_from_dependency: false
+        encrypted_possible_answer: 79r5iBs/12y21f3DrZ/+w6UYNETuRgEQqAK+2LSc7aY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

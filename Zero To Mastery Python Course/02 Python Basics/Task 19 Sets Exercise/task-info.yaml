@@ -1,0 +1,65 @@
+type: edu
+custom_name: Sets Exercise
+files:
+  - name: task.md
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: ExerciseSets.py
+    visible: true
+    placeholders:
+      - offset: 112
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 112
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZF94wX7LK3cKjz8M3p+UMg==
+        selected: false
+        status: Unchecked
+      - offset: 283
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 283
+        initialized_from_dependency: false
+        encrypted_possible_answer: YTG1HMQZ+6oAqnXdCic7qIkFDHccHYx2+xUjnIWg8jk=
+        selected: false
+        status: Unchecked
+      - offset: 356
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 356
+        initialized_from_dependency: false
+        encrypted_possible_answer: b8dpojcyhkBgkGOUQtRp9G5dO5MaeME2wYMUe4x3XjQ=
+        selected: false
+        status: Unchecked
+      - offset: 453
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 453
+        initialized_from_dependency: false
+        encrypted_possible_answer: O/X/wJxu9nhcuTJCSl+R8BDxw29jYrYqhAnKwPgPSdk=
+        selected: false
+        status: Unchecked
+      - offset: 522
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 522
+        initialized_from_dependency: false
+        encrypted_possible_answer: HtK8lHOkWFHCowZjrny15w==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

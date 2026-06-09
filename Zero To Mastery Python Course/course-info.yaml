@@ -1,0 +1,14 @@
+type: marketplace
+title: Zero To Mastery Python Course
+language: English
+summary: Learn Python fundamentals through hands-on exercises from the Complete Python
+  Developer course
+programming_language: Python
+programming_language_version: 3.8
+environment: unittest
+content:
+  - 01 Python Introduction
+  - 02 Python Basics
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/31603-zero-to-mastery-python-course/reviews
+yaml_version: 5

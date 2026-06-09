@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 152
-        length: 64
+        length: 37
         placeholder_text: "# Open the file input1.txt in read mode using the with statement"
         initial_state:
           length: 64
@@ -12,18 +12,18 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: ClONeCJ89xM+YLBHqI0uT1f8HqjRdiTgfJ5kbVb6uEkePVfxQgPcZ4zVQDjbR9AC
         selected: false
-        status: Unchecked
-      - offset: 269
-        length: 3
+        status: Solved
+      - offset: 242
+        length: 13
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 269
         initialized_from_dependency: false
         encrypted_possible_answer: CjyIEIdTn2xi5YDrREVhYw==
-        selected: false
-        status: Unchecked
-      - offset: 430
+        selected: true
+        status: Solved
+      - offset: 413
         length: 24
         placeholder_text: "# Close the output file!"
         initial_state:
@@ -32,7 +32,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: GLfjqX8FAMv5bbIEND3/XA==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: input.txt
     visible: true
@@ -46,6 +46,18 @@ files:
   - name: tests/test_task.py
     visible: false
     learner_created: false
+  - name: outfile_name
+    visible: true
+    learner_created: true
+  - name: outfile_name.txt
+    visible: true
+    learner_created: true
+  - name: outfile.txt
+    visible: true
+    learner_created: true
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=File+Input+Output+/+Open+file
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 09 Jun 2026 09:30:44 UTC"
 record: -1
